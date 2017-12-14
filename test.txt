@@ -15,3 +15,8 @@ git remote add origin git@github.com:rxchl/TestRepository.git
 git remote add origin  https://github.com/forezp/SpringCloudLearning
    
 
+ssh-keygen -t rsa -C "rxchl@163.com"
+
+http://gitlab.szewec.com/dev01/ 
+
+
