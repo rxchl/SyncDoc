@@ -1,0 +1,17 @@
+echo "# SyncDoc" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:rxchl/SyncDoc.git
+git push -u origin master
+
+=============================
+
+https://github.com/    rxchl chlwswswws1
+rxchl@163.com
+https://github.com/rxchl/TestRepository.git
+git remote add origin git@github.com:rxchl/TestRepository.git
+
+git remote add origin  https://github.com/forezp/SpringCloudLearning
+   
+
